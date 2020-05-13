@@ -1,4 +1,4 @@
-# hello_rectangle
+# StartUp Name Generator
 
 A new Flutter project.
 
